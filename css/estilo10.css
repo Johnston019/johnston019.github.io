@@ -1,0 +1,75 @@
+.contenedor{
+    width: 1366px;
+    height: 767px;
+    background-color: black;
+    margin: auto;
+}
+
+header{
+    width: 1366px;
+    height: 290px;
+    background-color: #fD9727;
+}
+nav{
+    width: 1366px;
+    height: 50px;
+    background-color: #e2202c;
+}
+main{
+    width: 1060px;
+    height: 388px;
+    background-color: #fee94e;
+}
+.anuncio1{
+    width: 306px;
+    height: 194px;
+    background-color: #673fb4;
+}
+.anuncio2{
+    width: 306px;
+    height: 194px;
+    background-color: #1eaaf1;
+}
+footer{
+    width: 1366px;
+    height: 40px;
+    background-color: #35b736;
+}
+.anuncios{
+    margin-left: 1060px;
+    margin-top: -388px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    border: 1px solid white;
+    overflow: hidden;
+}
+
+li a{
+    color: white;
+    padding: 13px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+li {
+    text-align: center;
+    border-bottom: 1px solid white;
+    background-color: blue;
+    float: left;
+    border: 1px solid white;
+}
+
+li a.activate{
+    background-color: blue;
+    color: white;
+}
+
+li a:hover:not(.activate){
+    background-color: green;
+    color: white;
+}

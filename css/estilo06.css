@@ -1,0 +1,11 @@
+.fondo1{
+    width: 800px;
+    height: 400px;
+    background-image: url("/img/html.jpg");
+}
+.fondo2{
+    width: 800px;
+    height: 400px;
+    background-image: url("/img/html.jpg");
+    background-repeat: no-repeat;
+}

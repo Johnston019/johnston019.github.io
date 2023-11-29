@@ -1,0 +1,5 @@
+/* selector universal --> toda la pagina tiene el mismo estilo */
+*{
+    color: red;
+    text-align: center;
+}

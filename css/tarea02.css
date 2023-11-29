@@ -1,0 +1,22 @@
+.color {
+    width: 1366px;
+    height: 66px;
+    background-color: skyblue;
+}
+.inicio {
+    text-align: right;
+}
+
+.contenedor .imagen1 {
+    margin-left: 300px;
+}
+
+.imagen2 {
+    margin-left: 800px;
+    margin-top: -400px;
+}
+
+.imagen3 {
+    margin-left: 1200px;
+    margin-top: -430px;
+}

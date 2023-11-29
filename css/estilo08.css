@@ -1,0 +1,42 @@
+hr{
+    width: 100%;
+    height: 10px;
+    background-color: blue;
+}
+.margen1{
+    width: 550px;
+    height: 200px;
+    border-style: solid;
+    border-color: aqua;
+    background-color: black;
+    border-width: 5px;
+    margin-top: 80px;
+}
+.margen2{
+    width: 550px;
+    height: 200px;
+    border-style: solid;
+    border-color: aqua;
+    background-color: black;
+    border-width: 5px;
+    margin-left: 300px;
+}
+.margen3{
+    width: 550px;
+    height: 200px;
+    border-style: solid;
+    border-color: aqua;
+    background-color: black;
+    border-width: 5px;
+    margin-right: 600px;
+}
+
+.margen4{
+    width: 550px;
+    height: 200px;
+    border-style: solid;
+    border-color: aqua;
+    background-color: black;
+    border-width: 5px;
+    margin-bottom: 150px;
+}
