@@ -7,16 +7,23 @@
     text-align: right;
 }
 
-.contenedor .imagen1 {
+.imagen1 {
     margin-left: 300px;
+    width: 260px;
+    height: 160px;
 }
 
 .imagen2 {
     margin-left: 800px;
     margin-top: -400px;
+    width: 260px;
+    height: 160px;
+    
 }
 
 .imagen3 {
     margin-left: 1200px;
     margin-top: -430px;
+    width: 260px;
+    height: 160px;
 }
