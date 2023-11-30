@@ -1,0 +1,27 @@
+.contenedor {
+    width: 1366px;
+    height: 766px;
+    background-color: aqua;
+}
+
+.contenedorlogo {
+    width: 1366px;
+    height: 231px;
+    background-color: red;
+}
+
+img {
+    
+}
+
+.secciones {
+    width: 1366px;
+    height: 64px;
+    background-color: blue;
+}
+
+.categoria {
+    width: 200px;
+    height: 473px;
+    background-color: black;
+}

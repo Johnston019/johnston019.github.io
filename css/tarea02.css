@@ -1,3 +1,27 @@
+
+.bordes {
+    width: 1366px;
+    height: 766px;
+    background-color: gold;
+    max-width: 1366;
+    max-height: 766;
+}
+
+.bordes .numero{
+    text-align: start;
+}
+
+.bordes .numero .email{
+    position: aling;
+}
+
+
+header {
+    width: 1366px;
+    height: 231px;
+    background-color: gray;
+}
+
 .color {
     width: 1366px;
     height: 66px;
@@ -8,22 +32,53 @@
 }
 
 .imagen1 {
-    margin-left: 300px;
-    width: 260px;
-    height: 160px;
+    padding-left: 298px;
+    height: 240px;
+    width: 160px;
 }
 
 .imagen2 {
-    margin-left: 800px;
-    margin-top: -400px;
-    width: 260px;
-    height: 160px;
-    
+    padding-left: 628px;
+    width: 240px;
+    height: 160px;  
 }
 
 .imagen3 {
-    margin-left: 1200px;
-    margin-top: -430px;
-    width: 260px;
+    margin-left: 970px;
+    margin-top: -300;
+    width: 240px;
     height: 160px;
 }
+
+.imagen4 {
+    margin-left: 300px;
+    width: 240px;
+    height: 160px;
+}
+
+.imagen5 {  
+    margin-left: 628px;
+    margin-top: -400px;
+    width: 240px;
+    height: 160px;  
+}  
+
+.imagen6 {
+    margin-left: 970px;
+    width: 240px;   
+    height: 160px;
+}
+
+.categoria {
+    width: 200px;
+    height: 473px;
+    background-color: aqua;
+    max-width: 200px;
+}
+
+.contenedor {
+    width: auto;
+    height: auto;
+    background-color: red;
+    padding-left: 300px;
+}  
