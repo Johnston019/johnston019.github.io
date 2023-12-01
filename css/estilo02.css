@@ -111,3 +111,13 @@ main {
 .letra {
     color: black;
 }
+footer{
+    width: 1366px;
+    height: 50px;
+    background-color: aquamarine;
+}
+
+footer img{
+    width: 50px;
+    height: 50px;
+}
