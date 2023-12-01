@@ -4,11 +4,29 @@ header {
     background-color: aqua;
 }
 
+.cabeza .cuerpo{
+    width: 1366;
+    height: 40px;
+    background-color: transparent;
+    text-align: center;
+}
+
+.cabeza .cuerpo .letra {
+    margin: 20px;
+    color: black;
+}
+
 nav {
     width: 1366px;
     height: 64px;
     background-color: blue;
-    text-align: justify;
+}
+
+.ncentro .dcentro {
+    text-align: center;
+}
+
+.ncentro .dcentro .boton {
 }
 
 main {
@@ -25,11 +43,12 @@ main {
     float: left;
 }
 
+
 .imagen1,
 .imagen2 {
     width: 1166px;
     height: 237px;
-    float: left; /* Agregamos float para que estén al lado del cuadro negro */
+    float: left; 
 }
 
 .imagen1 img {
@@ -70,20 +89,22 @@ main {
     background-color: transparent;
 }
 
+.imagenes img {
+    border-radius: 50%;
+}
+
 .boton-container {
     text-align: justify;
 }
 
 .boton {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 22px 130px;
     text-decoration: none;
     color: white;
-    background-color: blue;
-    border: 1px solid blue;
-    border-radius: 5px;
+    border: 2px solid black;
     transition: background-color 0.3s ease;
-    margin-right: 5px; 
+    margin: 0px -3px;
 }
 
 .boton:hover {
@@ -97,4 +118,24 @@ main {
     height: 0;
     font-size: 0;
     line-height: 0;
+}
+
+.feo {
+    width: 1366px;
+    height: 20px;
+    background-color: transparent;
+    display: flex;
+}
+
+.feo3 {
+    width: 1250px;
+    height: 20px;
+    background-color: transparent;
+}
+
+.feo4 {
+    width: 66px;
+    height: 20px;
+    background-color: transparent
+
 }
