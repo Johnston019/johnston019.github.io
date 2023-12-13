@@ -1,8 +1,9 @@
 header {
-    width: 1366px;
+    width: 1370px;
     height: 231px;
-    background-color: aqua;
+    background-image: url(/img/fondocabeza.jpg);
 }
+
 
 .cabeza .cuerpo{
     width: 1366;
@@ -18,7 +19,7 @@ header {
 nav {
     width: 1366px;
     height: 64px;
-    background-color: blue;
+    background-color: transparent;
     text-align: justify;
 }
 
@@ -42,14 +43,14 @@ nav {
     display: inline-block;
     padding: 22px 130px;
     text-decoration: none;
-    color: white;
+    color: black;
     border: 2px solid black;
     transition: background-color 0.3s ease;
     margin: 0px -3px;
 }
 
 .boton:hover {
-    background-color: darkblue;
+    background-color: rgb(3, 133, 255);
 }
 
 .boton-container::after {
@@ -64,7 +65,7 @@ nav {
 main {
     width: 1366px;
     height: 474px;
-    background-color: yellow;
+    background-color: transparent;
     overflow: hidden;
     text-align: center;
 }
@@ -114,7 +115,7 @@ main {
 footer{
     width: 1366px;
     height: 50px;
-    background-color: aquamarine;
+    background-color: transparent;
 }
 
 footer img{
@@ -124,7 +125,7 @@ footer img{
 
 .maximo {
     margin: auto;
-    width: 1366px;
-    height: 766px;
-    background-color: black;
+    width: 1370px;
+    height: 816px;
+    background-image: url(/img/fondopan.jpg);
 }
