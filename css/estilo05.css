@@ -143,3 +143,10 @@ footer img {
     width: 50px;
     height: 50px;
 }
+
+.maximo {
+    margin: auto;
+    width: 1366px;
+    height: 766px;
+    background-color: black;
+}

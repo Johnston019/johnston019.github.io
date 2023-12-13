@@ -96,3 +96,10 @@ main {
     font-size: 0;
     line-height: 0;
 }
+
+.maximo {
+    margin: auto;
+    width: 1366px;
+    height: 766px;
+    background-color: black;
+}

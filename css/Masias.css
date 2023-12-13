@@ -1,11 +1,11 @@
 header {
-    width: 1366px;
+    width: 1370px;
     height: 231px;
-    background-color: aqua;
+    background-image: url(/img/fondocabeza.jpg);
 }
 
 .cabeza .cuerpo{
-    width: 1366;
+    width: 1370;
     height: 40px;
     background-color: transparent;
     text-align: center;
@@ -17,9 +17,9 @@ header {
 }
 
 nav {
-    width: 1366px;
+    width: 1370px;
     height: 64px;
-    background-color: blue;
+    background-color: transparent;
 }
 
 .ncentro .dcentro {
@@ -30,23 +30,24 @@ nav {
 }
 
 main {
-    width: 1366px;
+    width: 1370px;
     height: 474px;
-    background-color: yellow;
+    background-color: transparent;
     overflow: hidden;
 }
 
 .check {
     width: 200px;
     height: 474px;
-    background-color: black;
+    background-color: transparent;
     float: left;
+    background-image: url(/img/fondocategoria.jpg);
 }
 
 
 .imagen1,
 .imagen2 {
-    width: 1166px;
+    width: 1170px;
     height: 237px;
     float: left; 
 }
@@ -62,23 +63,25 @@ main {
 }
 
 .imagen1 {
-    background-color: blueviolet;
+    background-color: transparent;
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
+    text-align: center;
 }
 
 
 
 .imagen2 {
-    background-color: gray;
+    background-color: transparent;
     display: flex;
     justify-content: center;
     align-items: center; 
 }
 
 .letra {
-    color: white;
+    color: black;
+    
 }
 
 .imagenes {
@@ -101,11 +104,11 @@ main {
     display: inline-block;
     padding: 22px 130px;
     text-decoration: none;
-    color: white;
+    color: black;
     border: 2px solid black;
     transition: background-color 0.3s ease;
     margin: 0px -3px;
-}
+}   
 
 .boton:hover {
     background-color: darkblue;
@@ -138,4 +141,75 @@ main {
     height: 20px;
     background-color: transparent
 
+}
+
+.maximo {
+    margin: auto;
+    width: 1370px;
+    height: 766px;
+    background-image: url(/img/fondopan.jpg);
+}
+
+p {
+    margin: 0px;
+}
+
+.acomodar1 {
+    width: 390px;
+    height: 237px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.acomodar2 {
+    width: 390px;
+    height: 237px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.acomodar3 {
+    width: 390px;
+    height: 237px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.acomodar4 {
+    width: 390px;
+    height: 237px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.acomodar5 {
+    width: 390px;
+    height: 237px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.acomodar6 {
+    width: 390px;
+    height: 237px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
