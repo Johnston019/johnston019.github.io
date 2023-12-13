@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+
+* {
+    font-family: 'Preahvihear', sans-serif;
+    font-weight: bold;
+}
+
 header {
     width: 1370px;
     height: 231px;
@@ -5,8 +12,8 @@ header {
 }
 
 nav {
-    width: 1366px;
-    height: 64px;
+    width: 1370px;
+    height: 78px;
     background-color: transparent;
     text-align: justify;
 }
@@ -105,7 +112,7 @@ footer{
 
 .boton {
     display: inline-block;
-    padding: 22px 130px;
+    padding: 22px 119px;
     text-decoration: none;
     color: black;
     border: 2px solid black;
@@ -154,4 +161,26 @@ footer img {
     width: 1370px;
     height: 816px;
     background-image: url(/img/fondopan.jpg);
+}
+
+.completar {
+    width: 1370xp;
+    height: 471px;
+    background-color: blue;
+}
+
+.completar .despacio .acompañar {
+    width: 685px;
+    height: 471px;
+    background-color: yellow;
+}
+
+.completar .despacio .acompañar {
+    width: 685px;
+    height: 471px;
+    background-color: yellow;
+}
+
+p {
+    margin: 0px;
 }

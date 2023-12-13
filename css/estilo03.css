@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+
+* {
+    font-family: 'Preahvihear', sans-serif;
+    font-weight: bold;
+}
+
 header {
     width: 1370px;
     height: 231px;
@@ -5,7 +12,7 @@ header {
 }
 
 .cabeza .cuerpo{
-    width: 1366;
+    width: 1366px;
     height: 40px;
     background-color: transparent;
     text-align: center;
@@ -23,7 +30,7 @@ header {
 
 
 nav {
-    width: 1366px;
+    width: 1370px;
     height: 64px;
     background-color: transparent;
     text-align: justify;
@@ -35,7 +42,7 @@ nav {
 
 .boton {
     display: inline-block;
-    padding: 22px 130px;
+    padding: 22px 119px;
     text-decoration: none;
     color: black;
     border: 2px solid black;
